@@ -1,0 +1,1 @@
+- Minor issue fixed where logging configuration supplied with logging-config-file were being overwritten by configure_colored_logging
